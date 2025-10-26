@@ -1,7 +1,7 @@
 ---
 title: "The Beginning"
 author: "mcreinii"
-date: "2025-26-10"
+date: "2025-10-26"
 ---
 
 # The beginning
